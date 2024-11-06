@@ -1,1 +1,2 @@
 mariadb:10.5.26
+louislam/uptime-kuma:1
